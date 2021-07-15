@@ -3,6 +3,7 @@ This is a simple calculator that has capability of doing simple mathematical ope
 The layout of the calculator is shown in picture below:
 
 
-![calculator2](https://user-images.githubusercontent.com/82519341/125439780-33fd054f-c3cd-4f5d-bc03-a63283d64517.PNG)
+![calculator3](https://user-images.githubusercontent.com/82519341/125713692-29356808-bf41-41ce-98e7-b1c6057bdfec.PNG)
+
 
 
