@@ -1,9 +1,17 @@
-# Calculator
-This is a simple calculator that has capability of doing simple mathematical operations like addition(+), subtraction(-), multiplication(*), and division(/). We can also find the power of a number using '^' this power button. It also can perform operations containing decimal and also has back button (Del) which is used to delete certain required number while there is error in typing. The layout of this calculator is simple and contains 5 rows and 4 columns. There is also 'Clear' button which is used to delete previous operations and user can do new task. The equal button (=) gives the end result. This calcutor is user friendly as it is easier to use
-The layout of the calculator is shown in picture below:
+CALCULATOR
+A calculator is a electronic device which is used to do mathematical operations such as addition, subtraction, multiplication, etc. This device helps to save our time cause we can do tuough mathematical calculations easily which also has made our life easier. It also decreases the chances of mistakes on our theorems and calculations. 
+Features of my calculator:
+1.This calculator that i have build have capability of doing basic mathematical operations such as addition, subtraction multiplication and division.
+2. Some of the added ones are, it can also find power of an integer as well as it can perform decimal operations too.
+3. It has clear button which clears the entry space and makes memory for the new ones.
+4. If we mistype something and we want to go back then we can also use the 'Del' button.
+5. The layout of this calculator is, it consists of 5 rows and 4 columns.
+6. The background colour of the buttons are black and numbers are white in colour where as except number other are written with yellow letters.
 
 
-![calculator3](https://user-images.githubusercontent.com/82519341/125713692-29356808-bf41-41ce-98e7-b1c6057bdfec.PNG)
+![calculator](https://user-images.githubusercontent.com/82519341/125759234-c0b37416-df18-428b-b76e-188567c1b3b9.PNG)
+
+
 
 
 
