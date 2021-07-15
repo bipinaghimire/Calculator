@@ -1,4 +1,5 @@
-CALCULATOR
+#CALCULATOR
+
 A calculator is a electronic device which is used to do mathematical operations such as addition, subtraction, multiplication, etc. This device helps to save our time cause we can do tuough mathematical calculations easily which also has made our life easier. It also decreases the chances of mistakes on our theorems and calculations. 
 
 
